@@ -44,3 +44,9 @@
   </li>
 </ul>
 
+## Angular 5 Loading Spinner
+
+<ul>
+  <li> <a href="https://www.npmjs.com/package/ng4-loading-spinner" titile="Angular 5 Loading Spinner">Angular 5 Loading Spinner</a></li>
+</ul>
+
