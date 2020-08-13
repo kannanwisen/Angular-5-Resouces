@@ -1,4 +1,4 @@
-# Angular 5 + Resources
+# Angular Resources
 
 ## Offical Website
 <ul>
